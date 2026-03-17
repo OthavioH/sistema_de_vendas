@@ -1,5 +1,8 @@
 # Sistema de Avaliação de Desenvolvimento de Sistemas
 
+Nome: Othavio Henrico dos Santos Soares
+Email: devothavioh@gmail.com
+
 Este projeto é uma aplicação Flutter desenvolvida para a gestão e visualização de produtos, permitindo o fluxo completo de compra, desde a seleção de itens até a finalização do pagamento. O sistema foi projetado com foco em usabilidade, performance e suporte multiplataforma.
 
 ## 🚀 Funcionalidades
