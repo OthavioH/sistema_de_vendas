@@ -1,0 +1,40 @@
+{
+  "@@locale": "en",
+  "appTitle": "Assessment System",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Total label for checkout"
+  },
+  "checkoutSuccess": "Purchase completed successfully!",
+  "cartTitle": "My Cart",
+  "emptyCart": "Your cart is empty.",
+  "each": "each",
+  "finish": "Finish",
+  "checkout": "Checkout",
+  "printPdf": "Extract Coupon to PDF",
+  "companyName": "Company MCLonalds",
+  "customerLabel": "Customer",
+  "customerNotProvided": "Customer not provided",
+  "paymentLabel": "Payment",
+  "paymentPix": "PIX",
+  "paymentCreditCard": "Credit Card",
+  "paymentDebitCard": "Debit Card",
+  "paymentCash": "Cash",
+  "currencySymbol": "$",
+  "productListTitle": "Product List",
+  "loadError": "Sorry, we couldn't load the products.",
+  "removeProductTitle": "Remove product",
+  "removeProductContent": "Are you sure you want to remove this product from the cart?",
+  "cancel": "Cancel",
+  "remove": "Remove",
+  "cpfLabel": "CPF",
+  "enterCpf": "Enter your CPF",
+  "continueLabel": "Continue",
+  "paymentMethodTitle": "Payment Method",
+  "cpfRequired": "CPF is required",
+  "cpfInvalidLength": "CPF must be 11 digits",
+  "cpfInvalid": "Invalid CPF"
+}
